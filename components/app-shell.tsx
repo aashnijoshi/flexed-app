@@ -53,7 +53,7 @@ function Footer() {
     <footer className="border-t border-border/50 py-8 mt-16">
       <Container>
         <div className="text-center text-sm text-muted-foreground">
-          <p>made for people who try (sometimes)</p>
+          <p>made for how you actually train</p>
         </div>
       </Container>
     </footer>

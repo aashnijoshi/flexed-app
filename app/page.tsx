@@ -11,11 +11,11 @@ export default function LandingPage() {
         <section className="flex-1 flex items-center justify-center px-4 py-16 md:py-24">
           <div className="max-w-3xl mx-auto text-center space-y-8 animate-slide-up">
             <div className="space-y-6">
-              <h1 className="text-4xl md:text-6xl font-bold text-foreground leading-tight">
-                workouts for people who ghost the gym
+              <h1 className="text-4xl md:text-6xl font-bold text-foreground leading-tight text-center">
+                workouts that meet u where u are  
               </h1>
               <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed">
-                no shame. small steps. flexible plans that actually work with your life.
+                for every version of your gym era. 
               </p>
             </div>
 

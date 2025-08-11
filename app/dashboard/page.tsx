@@ -160,7 +160,7 @@ export default function DashboardPage() {
         {/* Header */}
         <div className="flex items-center justify-between">
           <div className="space-y-2">
-            <h1 className="text-3xl md:text-4xl font-bold">hey, welcome back 👋</h1>
+            <h1 className="text-3xl md:text-4xl font-bold">welcome back 👋</h1>
             <p className="text-sm text-muted-foreground">{todayFormatted}</p>
           </div>
 
